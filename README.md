@@ -1,4 +1,7 @@
-<h1> Hi ! Welcome on my GitHub Profile </h1>
+
+<body style="background-color:red;">
+  
+  <h1> Hi ! Welcome on my GitHub Profile </h1>
 
 <h2> Who I am ? </h2>
 
@@ -12,3 +15,4 @@
 
 <p> You will found all my projects, because I like to share my knowledge with other developers, we are a community, and a community shares everything ! You will found my new projects, on my new languages, you can help me being a better developer if you want, or just check out my work, and give a Star, it's always appreciated.</p>
 
+</body>
