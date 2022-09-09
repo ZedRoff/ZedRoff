@@ -9,7 +9,7 @@
 
 <h2>💻 My Work </h2>
 
-<p>There is my portfolio that is dedicated for this category, here it is : <a href="https://zedroff.engineer/">Link</a>. But I generally do expressJS backend with NodeJS, and ReactJS frontend for my front/back websites, and I also make Discord Bots and APIs sometimes.</p>
+<p>There is my portfolio that is dedicated for this category, here it is : <a href="https://zedroff.engineer/" target="_blank">Link</a>. But I generally do expressJS backend with NodeJS, and ReactJS frontend for my front/back websites, and I also make Discord Bots and APIs sometimes.</p>
 
 <h2>🛠 What you will find here ? </h2>
 
