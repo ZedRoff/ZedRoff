@@ -7,11 +7,11 @@
   <p>I am a passionate full-stack developer with a passion for coding, I love creating solutions for problems that cross my mind. Currently working on my start-up, I always do projects with people I get in touch. Thanks for considering my profile.</p>
   <ul>
     <li>
-💻 I enjoy crafting elegant solutions to complex problems.
+💻 I enjoy crafting elegant solutions to complex problems.   </li>
 
-    </li>
-    <li>
-🌐 My expertise spans across both front-end and back-end development.
+ 
+   
+ <li>🌐 My expertise spans across both front-end and back-end development.
     </li>
     <li>
     
@@ -20,23 +20,23 @@
 
   <br />
   <h2>My skills</h2>
-  <ul>
-
-    <li>
-    <bold>Frontend</bold> : ReactJS, JavaScript, HTML/CSS
-    </li>
-
-     <li>
+  <ul>  <li> <bold>Frontend</bold> : ReactJS, JavaScript, HTML/CSS </li>   <li>
     <bold>Backend</bold> : ExpressJS, NodeJS, Flask, Strapi
-    </li>
-
-     <li>
+    </li>  <li>
     <bold>Databases</bold> : Firebase, MongoDB, SQL
-    </li>
-
-     <li>
+    </li>   <li>
     <bold>Tools</bold> : VSCode, Figma, Postman
     </li>
+
+
+ 
+   
+   
+
+  
+
+   
+  
   </ul>
 
 
