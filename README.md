@@ -55,7 +55,7 @@
   📧 E-mail: <a href="mailto:aman.ghazanfar@edu.esiee.fr">Contact Me</a>
   </li>
   <li>
-    🌐 Portfolio: <a href="https://amang-g.vercel.app">Link</a>
+    🌐 Portfolio: <a href="https://aman-g.vercel.app">Link</a>
   </li>
 </ul>
 </body>
