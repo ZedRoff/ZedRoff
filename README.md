@@ -47,7 +47,7 @@
 <li>
   
 
-  🔗 LinkedIn: <a href="https://linkedin.com/aman-ghazanfar">aman-ghazanfar</a>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/aman-ghazanfar/">aman-ghazanfar</a>
   </li>
   <li>
   
